@@ -1,0 +1,1176 @@
+Autoformer_Autoformer_strength_0  
+mse:2.57736873626709, mae:1.1587789058685303, dtw:Not calculated
+
+Autoformer_Autoformer_strength_1  
+mse:2.4935801029205322, mae:1.1287893056869507, dtw:Not calculated
+
+Autoformer_Autoformer_strength_2  
+mse:2.277315139770508, mae:1.0662562847137451, dtw:Not calculated
+
+Autoformer_Autoformer_strength_3  
+mse:2.363553047180176, mae:1.0971624851226807, dtw:Not calculated
+
+Autoformer_Autoformer_strength_4  
+mse:2.4568800926208496, mae:1.1209713220596313, dtw:Not calculated
+
+Autoformer_Autoformer_strength_5  
+mse:2.3742265701293945, mae:1.1063275337219238, dtw:Not calculated
+
+Autoformer_Autoformer_strength_6  
+mse:2.3734219074249268, mae:1.0842045545578003, dtw:Not calculated
+
+Autoformer_Autoformer_strength_7  
+mse:2.099825382232666, mae:1.0170350074768066, dtw:Not calculated
+
+Autoformer_Autoformer_strength_8  
+mse:2.3636629581451416, mae:1.0969842672348022, dtw:Not calculated
+
+Autoformer_Autoformer_strength_9  
+mse:2.1805999279022217, mae:1.031382441520691, dtw:Not calculated
+
+Autoformer_Autoformer_strength_9  
+mse:2.1761624813079834, mae:1.0304750204086304, dtw:Not calculated
+
+Autoformer_Autoformer_strength_10  
+mse:2.4889416694641113, mae:1.1392922401428223, dtw:Not calculated
+
+Autoformer_Autoformer_strength_11  
+mse:2.2531328201293945, mae:1.0723458528518677, dtw:Not calculated
+
+Autoformer_Autoformer_strength_12  
+mse:2.15297794342041, mae:1.0508687496185303, dtw:Not calculated
+
+Autoformer_Autoformer_strength_13  
+mse:2.229208469390869, mae:1.056538701057434, dtw:Not calculated
+
+Autoformer_Autoformer_strength_14  
+mse:2.4011101722717285, mae:1.1166881322860718, dtw:Not calculated
+
+Autoformer_Autoformer_strength_15  
+mse:2.2052195072174072, mae:1.047346830368042, dtw:Not calculated
+
+Autoformer_Autoformer_strength_16  
+mse:2.2020113468170166, mae:1.0689119100570679, dtw:Not calculated
+
+Autoformer_Autoformer_strength_17  
+mse:2.421785831451416, mae:1.132869005203247, dtw:Not calculated
+
+Autoformer_Autoformer_strength_18  
+mse:2.295860528945923, mae:1.0531014204025269, dtw:Not calculated
+
+Autoformer_Autoformer_strength_19  
+mse:2.1691412925720215, mae:1.0459319353103638, dtw:Not calculated
+
+Autoformer_Autoformer_strength_19  
+mse:2.1714718341827393, mae:1.0464208126068115, dtw:Not calculated
+
+Autoformer_Autoformer_strength_20  
+mse:2.4228429794311523, mae:1.0997540950775146, dtw:Not calculated
+
+Autoformer_Autoformer_strength_21  
+mse:2.29259991645813, mae:1.0777933597564697, dtw:Not calculated
+
+Autoformer_Autoformer_strength_22  
+mse:2.2636327743530273, mae:1.0748631954193115, dtw:Not calculated
+
+Autoformer_Autoformer_strength_23  
+mse:2.1994259357452393, mae:1.0475422143936157, dtw:Not calculated
+
+Autoformer_Autoformer_strength_24  
+mse:2.3193068504333496, mae:1.0595505237579346, dtw:Not calculated
+
+Autoformer_Autoformer_strength_25  
+mse:2.3241217136383057, mae:1.0779889822006226, dtw:Not calculated
+
+Autoformer_Autoformer_strength_26  
+mse:2.3691554069519043, mae:1.0844508409500122, dtw:Not calculated
+
+Autoformer_Autoformer_strength_27  
+mse:2.1828482151031494, mae:1.027681589126587, dtw:Not calculated
+
+Autoformer_Autoformer_strength_28  
+mse:2.4343268871307373, mae:1.0973080396652222, dtw:Not calculated
+
+Autoformer_Autoformer_strength_29  
+mse:2.1620423793792725, mae:1.0265731811523438, dtw:Not calculated
+
+Autoformer_Autoformer_strength_29  
+mse:2.172863721847534, mae:1.0301475524902344, dtw:Not calculated
+
+Autoformer_Autoformer_strength_30  
+mse:2.5781819820404053, mae:1.1688460111618042, dtw:Not calculated
+
+Autoformer_Autoformer_strength_31  
+mse:2.5093750953674316, mae:1.129088282585144, dtw:Not calculated
+
+Autoformer_Autoformer_strength_32  
+mse:2.3557956218719482, mae:1.118080973625183, dtw:Not calculated
+
+Autoformer_Autoformer_strength_33  
+mse:2.5916647911071777, mae:1.1424168348312378, dtw:Not calculated
+
+Autoformer_Autoformer_strength_34  
+mse:2.38486647605896, mae:1.1176027059555054, dtw:Not calculated
+
+Autoformer_Autoformer_strength_35  
+mse:2.609283447265625, mae:1.165282964706421, dtw:Not calculated
+
+Autoformer_Autoformer_strength_36  
+mse:2.4109253883361816, mae:1.1108856201171875, dtw:Not calculated
+
+Autoformer_Autoformer_strength_37  
+mse:2.402310371398926, mae:1.0995665788650513, dtw:Not calculated
+
+Autoformer_Autoformer_strength_38  
+mse:2.3924458026885986, mae:1.0885158777236938, dtw:Not calculated
+
+Autoformer_Autoformer_strength_39  
+mse:2.4151711463928223, mae:1.106925368309021, dtw:Not calculated
+
+Autoformer_Autoformer_strength_39  
+mse:2.418745279312134, mae:1.1088132858276367, dtw:Not calculated
+
+Autoformer_Autoformer_strength_40  
+mse:2.5235965251922607, mae:1.1296379566192627, dtw:Not calculated
+
+Autoformer_Autoformer_strength_41  
+mse:2.2939984798431396, mae:1.0732872486114502, dtw:Not calculated
+
+Autoformer_Autoformer_strength_42  
+mse:2.3152689933776855, mae:1.084435224533081, dtw:Not calculated
+
+Autoformer_Autoformer_strength_43  
+mse:2.332995891571045, mae:1.0945510864257812, dtw:Not calculated
+
+Autoformer_Autoformer_strength_44  
+mse:2.3474340438842773, mae:1.0625784397125244, dtw:Not calculated
+
+Autoformer_Autoformer_strength_45  
+mse:2.3165669441223145, mae:1.0939416885375977, dtw:Not calculated
+
+Autoformer_Autoformer_strength_46  
+mse:2.4221365451812744, mae:1.116436243057251, dtw:Not calculated
+
+Autoformer_Autoformer_strength_47  
+mse:2.2661733627319336, mae:1.0625345706939697, dtw:Not calculated
+
+Autoformer_Autoformer_strength_48  
+mse:2.294433832168579, mae:1.0562785863876343, dtw:Not calculated
+
+Autoformer_Autoformer_strength_49  
+mse:2.307276725769043, mae:1.0696063041687012, dtw:Not calculated
+
+Autoformer_Autoformer_strength_49  
+mse:2.29128098487854, mae:1.0666638612747192, dtw:Not calculated
+
+Autoformer_Autoformer_ori  
+mse:2.534039258956909, mae:1.142823338508606, dtw:Not calculated
+
+Informer_Informer_strength_0  
+mse:2.434675931930542, mae:1.1292117834091187, dtw:Not calculated
+
+Informer_Informer_strength_1  
+mse:2.174177646636963, mae:1.0578250885009766, dtw:Not calculated
+
+Informer_Informer_strength_2  
+mse:2.023639440536499, mae:1.0064384937286377, dtw:Not calculated
+
+Informer_Informer_strength_3  
+mse:2.093775510787964, mae:1.0292474031448364, dtw:Not calculated
+
+Informer_Informer_strength_4  
+mse:2.3201777935028076, mae:1.0871539115905762, dtw:Not calculated
+
+Informer_Informer_strength_5  
+mse:2.191563844680786, mae:1.04977285861969, dtw:Not calculated
+
+Informer_Informer_strength_6  
+mse:2.4616055488586426, mae:1.1242083311080933, dtw:Not calculated
+
+Informer_Informer_strength_7  
+mse:2.120882987976074, mae:1.023063063621521, dtw:Not calculated
+
+Informer_Informer_strength_8  
+mse:2.2136359214782715, mae:1.0597187280654907, dtw:Not calculated
+
+Informer_Informer_strength_9  
+mse:2.2219536304473877, mae:1.0739020109176636, dtw:Not calculated
+
+Informer_Informer_strength_9  
+mse:2.2177906036376953, mae:1.07353675365448, dtw:Not calculated
+
+Informer_Informer_strength_10  
+mse:2.2141757011413574, mae:1.0888583660125732, dtw:Not calculated
+
+Informer_Informer_strength_11  
+mse:2.1721580028533936, mae:1.0503311157226562, dtw:Not calculated
+
+Informer_Informer_strength_12  
+mse:2.2465765476226807, mae:1.0745896100997925, dtw:Not calculated
+
+Informer_Informer_strength_13  
+mse:1.94119393825531, mae:0.9723609089851379, dtw:Not calculated
+
+Informer_Informer_strength_14  
+mse:2.70255970954895, mae:1.2071198225021362, dtw:Not calculated
+
+Informer_Informer_strength_15  
+mse:1.9784287214279175, mae:0.9910447597503662, dtw:Not calculated
+
+Informer_Informer_strength_16  
+mse:2.2431910037994385, mae:1.0842254161834717, dtw:Not calculated
+
+Informer_Informer_strength_17  
+mse:1.9913229942321777, mae:0.9868815541267395, dtw:Not calculated
+
+Informer_Informer_strength_18  
+mse:2.0879077911376953, mae:1.0305025577545166, dtw:Not calculated
+
+Informer_Informer_strength_19  
+mse:2.225141763687134, mae:1.0660972595214844, dtw:Not calculated
+
+Informer_Informer_strength_19  
+mse:2.2198853492736816, mae:1.065538763999939, dtw:Not calculated
+
+Informer_Informer_strength_20  
+mse:2.094883441925049, mae:1.0571050643920898, dtw:Not calculated
+
+Informer_Informer_strength_21  
+mse:2.2745554447174072, mae:1.0734258890151978, dtw:Not calculated
+
+Informer_Informer_strength_22  
+mse:2.0625336170196533, mae:1.0360912084579468, dtw:Not calculated
+
+Informer_Informer_strength_23  
+mse:2.230452060699463, mae:1.0753406286239624, dtw:Not calculated
+
+Informer_Informer_strength_24  
+mse:2.05474853515625, mae:1.0088465213775635, dtw:Not calculated
+
+Informer_Informer_strength_25  
+mse:2.084183692932129, mae:1.0339727401733398, dtw:Not calculated
+
+Informer_Informer_strength_26  
+mse:2.183077335357666, mae:1.0558536052703857, dtw:Not calculated
+
+Informer_Informer_strength_27  
+mse:2.109051465988159, mae:1.0343670845031738, dtw:Not calculated
+
+Informer_Informer_strength_28  
+mse:2.135560989379883, mae:1.0284101963043213, dtw:Not calculated
+
+Informer_Informer_strength_29  
+mse:2.089418411254883, mae:1.0275224447250366, dtw:Not calculated
+
+Informer_Informer_strength_29  
+mse:2.088508367538452, mae:1.0259342193603516, dtw:Not calculated
+
+Informer_Informer_strength_30  
+mse:2.1252543926239014, mae:1.0346059799194336, dtw:Not calculated
+
+Informer_Informer_strength_31  
+mse:2.338750123977661, mae:1.0826923847198486, dtw:Not calculated
+
+Informer_Informer_strength_32  
+mse:2.234046459197998, mae:1.057735562324524, dtw:Not calculated
+
+Informer_Informer_strength_33  
+mse:1.96050226688385, mae:0.9991881847381592, dtw:Not calculated
+
+Informer_Informer_strength_34  
+mse:2.0725386142730713, mae:1.0194919109344482, dtw:Not calculated
+
+Informer_Informer_strength_35  
+mse:2.138740062713623, mae:1.0500109195709229, dtw:Not calculated
+
+Informer_Informer_strength_36  
+mse:2.0778279304504395, mae:1.0126910209655762, dtw:Not calculated
+
+Informer_Informer_strength_37  
+mse:2.2047150135040283, mae:1.0475329160690308, dtw:Not calculated
+
+Informer_Informer_strength_38  
+mse:2.2081470489501953, mae:1.0463544130325317, dtw:Not calculated
+
+Informer_Informer_strength_39  
+mse:2.182447671890259, mae:1.048351526260376, dtw:Not calculated
+
+Informer_Informer_strength_39  
+mse:2.1938366889953613, mae:1.0518746376037598, dtw:Not calculated
+
+Informer_Informer_strength_40  
+mse:2.1499431133270264, mae:1.0731242895126343, dtw:Not calculated
+
+Informer_Informer_strength_41  
+mse:2.0742404460906982, mae:1.0218892097473145, dtw:Not calculated
+
+Informer_Informer_strength_42  
+mse:2.286259889602661, mae:1.085004210472107, dtw:Not calculated
+
+Informer_Informer_strength_43  
+mse:2.2035715579986572, mae:1.0597169399261475, dtw:Not calculated
+
+Informer_Informer_strength_44  
+mse:2.208672523498535, mae:1.0507349967956543, dtw:Not calculated
+
+Informer_Informer_strength_45  
+mse:2.141526937484741, mae:1.0602917671203613, dtw:Not calculated
+
+Informer_Informer_strength_46  
+mse:2.263180732727051, mae:1.0824097394943237, dtw:Not calculated
+
+Informer_Informer_strength_47  
+mse:2.266242027282715, mae:1.0708860158920288, dtw:Not calculated
+
+Informer_Informer_strength_48  
+mse:2.138880729675293, mae:1.0537652969360352, dtw:Not calculated
+
+Informer_Informer_strength_49  
+mse:2.2897708415985107, mae:1.07046639919281, dtw:Not calculated
+
+Informer_Informer_strength_49  
+mse:2.275512218475342, mae:1.0673389434814453, dtw:Not calculated
+
+Informer_Informer_ori  
+mse:2.1487905979156494, mae:1.0321775674819946, dtw:Not calculated
+
+PatchTST_PatchTST_strength_0  
+mse:1.9303088188171387, mae:0.9204887747764587, dtw:Not calculated
+
+PatchTST_PatchTST_strength_1  
+mse:2.1307125091552734, mae:0.9752936363220215, dtw:Not calculated
+
+PatchTST_PatchTST_strength_2  
+mse:1.9789143800735474, mae:0.9379570484161377, dtw:Not calculated
+
+PatchTST_PatchTST_strength_3  
+mse:2.0252342224121094, mae:0.9433046579360962, dtw:Not calculated
+
+PatchTST_PatchTST_strength_4  
+mse:2.040747880935669, mae:0.9534985423088074, dtw:Not calculated
+
+PatchTST_PatchTST_strength_5  
+mse:2.2639896869659424, mae:1.0193357467651367, dtw:Not calculated
+
+PatchTST_PatchTST_strength_6  
+mse:2.1943397521972656, mae:1.003552794456482, dtw:Not calculated
+
+PatchTST_PatchTST_strength_7  
+mse:2.3701236248016357, mae:1.0552839040756226, dtw:Not calculated
+
+PatchTST_PatchTST_strength_8  
+mse:3.6510608196258545, mae:1.3539283275604248, dtw:Not calculated
+
+PatchTST_PatchTST_strength_9  
+mse:2.084237813949585, mae:0.9631907343864441, dtw:Not calculated
+
+PatchTST_PatchTST_strength_9  
+mse:2.0792036056518555, mae:0.9618887901306152, dtw:Not calculated
+
+PatchTST_PatchTST_strength_10  
+mse:2.2480270862579346, mae:1.011365294456482, dtw:Not calculated
+
+PatchTST_PatchTST_strength_11  
+mse:2.1486783027648926, mae:0.9728463292121887, dtw:Not calculated
+
+PatchTST_PatchTST_strength_12  
+mse:2.089695692062378, mae:0.9729047417640686, dtw:Not calculated
+
+PatchTST_PatchTST_strength_13  
+mse:2.049013376235962, mae:0.9454890489578247, dtw:Not calculated
+
+PatchTST_PatchTST_strength_14  
+mse:2.7356700897216797, mae:1.1387755870819092, dtw:Not calculated
+
+PatchTST_PatchTST_strength_15  
+mse:3.2193665504455566, mae:1.2496165037155151, dtw:Not calculated
+
+PatchTST_PatchTST_strength_16  
+mse:3.4091763496398926, mae:1.2336994409561157, dtw:Not calculated
+
+PatchTST_PatchTST_strength_17  
+mse:2.1282541751861572, mae:0.97953861951828, dtw:Not calculated
+
+PatchTST_PatchTST_strength_18  
+mse:3.4001543521881104, mae:1.3005603551864624, dtw:Not calculated
+
+PatchTST_PatchTST_strength_19  
+mse:2.958451747894287, mae:1.1801106929779053, dtw:Not calculated
+
+PatchTST_PatchTST_strength_19  
+mse:2.9645276069641113, mae:1.1800450086593628, dtw:Not calculated
+
+PatchTST_PatchTST_strength_20  
+mse:2.044858932495117, mae:0.9664703607559204, dtw:Not calculated
+
+PatchTST_PatchTST_strength_21  
+mse:2.0062918663024902, mae:0.940464437007904, dtw:Not calculated
+
+PatchTST_PatchTST_strength_22  
+mse:2.187544107437134, mae:1.00503408908844, dtw:Not calculated
+
+PatchTST_PatchTST_strength_23  
+mse:3.1424851417541504, mae:1.2299981117248535, dtw:Not calculated
+
+PatchTST_PatchTST_strength_24  
+mse:2.3072152137756348, mae:1.033125638961792, dtw:Not calculated
+
+PatchTST_PatchTST_strength_25  
+mse:2.1635890007019043, mae:0.987183153629303, dtw:Not calculated
+
+PatchTST_PatchTST_strength_26  
+mse:2.0457403659820557, mae:0.9516339302062988, dtw:Not calculated
+
+PatchTST_PatchTST_strength_27  
+mse:2.0903146266937256, mae:0.9553103446960449, dtw:Not calculated
+
+PatchTST_PatchTST_strength_28  
+mse:2.018233060836792, mae:0.9476875066757202, dtw:Not calculated
+
+PatchTST_PatchTST_strength_29  
+mse:2.116611957550049, mae:0.9698547720909119, dtw:Not calculated
+
+PatchTST_PatchTST_strength_29  
+mse:2.1186089515686035, mae:0.9682124257087708, dtw:Not calculated
+
+PatchTST_PatchTST_strength_30  
+mse:2.0954749584198, mae:0.9567555785179138, dtw:Not calculated
+
+PatchTST_PatchTST_strength_31  
+mse:2.0550429821014404, mae:0.9562596082687378, dtw:Not calculated
+
+PatchTST_PatchTST_strength_32  
+mse:2.2671356201171875, mae:1.0132983922958374, dtw:Not calculated
+
+PatchTST_PatchTST_strength_33  
+mse:2.025192975997925, mae:0.9553871750831604, dtw:Not calculated
+
+PatchTST_PatchTST_strength_34  
+mse:1.979966640472412, mae:0.9325675964355469, dtw:Not calculated
+
+PatchTST_PatchTST_strength_35  
+mse:2.0797648429870605, mae:0.9590252041816711, dtw:Not calculated
+
+PatchTST_PatchTST_strength_36  
+mse:1.8894459009170532, mae:0.9044637680053711, dtw:Not calculated
+
+PatchTST_PatchTST_strength_37  
+mse:2.555657386779785, mae:1.0810407400131226, dtw:Not calculated
+
+PatchTST_PatchTST_strength_38  
+mse:2.2788758277893066, mae:1.0336686372756958, dtw:Not calculated
+
+PatchTST_PatchTST_strength_39  
+mse:2.667795181274414, mae:1.0898734331130981, dtw:Not calculated
+
+PatchTST_PatchTST_strength_39  
+mse:2.665315628051758, mae:1.0878976583480835, dtw:Not calculated
+
+PatchTST_PatchTST_strength_40  
+mse:2.0887086391448975, mae:0.9720426201820374, dtw:Not calculated
+
+PatchTST_PatchTST_strength_41  
+mse:2.2937464714050293, mae:1.036379098892212, dtw:Not calculated
+
+PatchTST_PatchTST_strength_42  
+mse:2.4178531169891357, mae:1.061974048614502, dtw:Not calculated
+
+PatchTST_PatchTST_strength_43  
+mse:2.1736385822296143, mae:0.9949976205825806, dtw:Not calculated
+
+PatchTST_PatchTST_strength_44  
+mse:2.00651216506958, mae:0.9453209042549133, dtw:Not calculated
+
+PatchTST_PatchTST_strength_45  
+mse:1.9324227571487427, mae:0.9236875772476196, dtw:Not calculated
+
+PatchTST_PatchTST_strength_46  
+mse:2.0774686336517334, mae:0.961435854434967, dtw:Not calculated
+
+PatchTST_PatchTST_strength_47  
+mse:1.9888885021209717, mae:0.9375741481781006, dtw:Not calculated
+
+PatchTST_PatchTST_strength_48  
+mse:1.9573642015457153, mae:0.9192520380020142, dtw:Not calculated
+
+PatchTST_PatchTST_strength_49  
+mse:2.078267812728882, mae:0.9598783254623413, dtw:Not calculated
+
+PatchTST_PatchTST_strength_49  
+mse:2.066789150238037, mae:0.9570515751838684, dtw:Not calculated
+
+PatchTST_PatchTST_ori  
+mse:2.1606462001800537, mae:0.993798553943634, dtw:Not calculated
+
+FEDformer_FEDformer_strength_0  
+mse:3.3879847526550293, mae:1.3607569932937622, dtw:Not calculated
+
+FEDformer_FEDformer_strength_1  
+mse:2.399993658065796, mae:1.109313726425171, dtw:Not calculated
+
+FEDformer_FEDformer_strength_2  
+mse:2.78378963470459, mae:1.209363341331482, dtw:Not calculated
+
+FEDformer_FEDformer_strength_3  
+mse:2.725475788116455, mae:1.1989407539367676, dtw:Not calculated
+
+FEDformer_FEDformer_strength_4  
+mse:2.670543670654297, mae:1.170547604560852, dtw:Not calculated
+
+FEDformer_FEDformer_strength_5  
+mse:2.6050689220428467, mae:1.1411700248718262, dtw:Not calculated
+
+FEDformer_FEDformer_strength_6  
+mse:2.745408058166504, mae:1.2286978960037231, dtw:Not calculated
+
+FEDformer_FEDformer_strength_7  
+mse:2.642031669616699, mae:1.1737080812454224, dtw:Not calculated
+
+FEDformer_FEDformer_strength_8  
+mse:2.718609571456909, mae:1.2093836069107056, dtw:Not calculated
+
+FEDformer_FEDformer_strength_9  
+mse:2.9269230365753174, mae:1.258050560951233, dtw:Not calculated
+
+FEDformer_FEDformer_strength_9  
+mse:2.921190023422241, mae:1.2567673921585083, dtw:Not calculated
+
+FEDformer_FEDformer_strength_10  
+mse:3.095773220062256, mae:1.302585244178772, dtw:Not calculated
+
+FEDformer_FEDformer_strength_11  
+mse:2.2644693851470947, mae:1.0728580951690674, dtw:Not calculated
+
+FEDformer_FEDformer_strength_12  
+mse:2.8728911876678467, mae:1.2535001039505005, dtw:Not calculated
+
+FEDformer_FEDformer_strength_13  
+mse:2.322078227996826, mae:1.0879483222961426, dtw:Not calculated
+
+FEDformer_FEDformer_strength_14  
+mse:2.7219419479370117, mae:1.2051150798797607, dtw:Not calculated
+
+FEDformer_FEDformer_strength_15  
+mse:2.473991870880127, mae:1.1216094493865967, dtw:Not calculated
+
+FEDformer_FEDformer_strength_16  
+mse:2.7260677814483643, mae:1.2010674476623535, dtw:Not calculated
+
+FEDformer_FEDformer_strength_17  
+mse:2.815396547317505, mae:1.2471442222595215, dtw:Not calculated
+
+FEDformer_FEDformer_strength_18  
+mse:2.7205052375793457, mae:1.196570634841919, dtw:Not calculated
+
+FEDformer_FEDformer_strength_19  
+mse:2.690430164337158, mae:1.2021105289459229, dtw:Not calculated
+
+FEDformer_FEDformer_strength_19  
+mse:2.695216655731201, mae:1.202486276626587, dtw:Not calculated
+
+FEDformer_FEDformer_strength_20  
+mse:2.9494316577911377, mae:1.2731865644454956, dtw:Not calculated
+
+FEDformer_FEDformer_strength_21  
+mse:2.3081772327423096, mae:1.0814898014068604, dtw:Not calculated
+
+FEDformer_FEDformer_strength_22  
+mse:2.7334635257720947, mae:1.219124436378479, dtw:Not calculated
+
+FEDformer_FEDformer_strength_23  
+mse:2.6554272174835205, mae:1.1879827976226807, dtw:Not calculated
+
+FEDformer_FEDformer_strength_24  
+mse:2.558192253112793, mae:1.177483320236206, dtw:Not calculated
+
+FEDformer_FEDformer_strength_25  
+mse:2.550018310546875, mae:1.1474666595458984, dtw:Not calculated
+
+FEDformer_FEDformer_strength_26  
+mse:2.6151561737060547, mae:1.20328688621521, dtw:Not calculated
+
+FEDformer_FEDformer_strength_27  
+mse:2.7744555473327637, mae:1.2105051279067993, dtw:Not calculated
+
+FEDformer_FEDformer_strength_28  
+mse:2.7098326683044434, mae:1.2293671369552612, dtw:Not calculated
+
+FEDformer_FEDformer_strength_29  
+mse:2.65997314453125, mae:1.194108247756958, dtw:Not calculated
+
+FEDformer_FEDformer_strength_29  
+mse:2.659450054168701, mae:1.1947771310806274, dtw:Not calculated
+
+FEDformer_FEDformer_strength_30  
+mse:3.8019840717315674, mae:1.5004479885101318, dtw:Not calculated
+
+FEDformer_FEDformer_strength_31  
+mse:2.2974538803100586, mae:1.0772923231124878, dtw:Not calculated
+
+FEDformer_FEDformer_strength_32  
+mse:2.9825592041015625, mae:1.267570972442627, dtw:Not calculated
+
+FEDformer_FEDformer_strength_33  
+mse:2.572774887084961, mae:1.1446958780288696, dtw:Not calculated
+
+FEDformer_FEDformer_strength_34  
+mse:2.936633586883545, mae:1.270764946937561, dtw:Not calculated
+
+FEDformer_FEDformer_strength_35  
+mse:2.4745051860809326, mae:1.1330924034118652, dtw:Not calculated
+
+FEDformer_FEDformer_strength_36  
+mse:2.8270375728607178, mae:1.2530479431152344, dtw:Not calculated
+
+FEDformer_FEDformer_strength_37  
+mse:2.6902520656585693, mae:1.1802294254302979, dtw:Not calculated
+
+FEDformer_FEDformer_strength_38  
+mse:2.5665600299835205, mae:1.1648977994918823, dtw:Not calculated
+
+FEDformer_FEDformer_strength_39  
+mse:2.720824718475342, mae:1.1888347864151, dtw:Not calculated
+
+FEDformer_FEDformer_strength_39  
+mse:2.712998151779175, mae:1.187721848487854, dtw:Not calculated
+
+FEDformer_FEDformer_strength_40  
+mse:3.3073806762695312, mae:1.3461735248565674, dtw:Not calculated
+
+FEDformer_FEDformer_strength_41  
+mse:2.433875322341919, mae:1.1129199266433716, dtw:Not calculated
+
+FEDformer_FEDformer_strength_42  
+mse:3.2425875663757324, mae:1.3445998430252075, dtw:Not calculated
+
+FEDformer_FEDformer_strength_43  
+mse:2.519421339035034, mae:1.1376746892929077, dtw:Not calculated
+
+FEDformer_FEDformer_strength_44  
+mse:2.8444530963897705, mae:1.2440108060836792, dtw:Not calculated
+
+FEDformer_FEDformer_strength_45  
+mse:2.6645562648773193, mae:1.188364863395691, dtw:Not calculated
+
+FEDformer_FEDformer_strength_46  
+mse:2.684032917022705, mae:1.1915156841278076, dtw:Not calculated
+
+FEDformer_FEDformer_strength_47  
+mse:2.664588689804077, mae:1.1683038473129272, dtw:Not calculated
+
+FEDformer_FEDformer_strength_48  
+mse:2.734757900238037, mae:1.2254797220230103, dtw:Not calculated
+
+FEDformer_FEDformer_strength_49  
+mse:2.55436372756958, mae:1.1274415254592896, dtw:Not calculated
+
+FEDformer_FEDformer_strength_49  
+mse:2.539848804473877, mae:1.1242005825042725, dtw:Not calculated
+
+FEDformer_FEDformer_ori  
+mse:3.5405991077423096, mae:1.424852728843689, dtw:Not calculated
+
+DLinear_DLinear_strength_0  
+mse:1.8406696319580078, mae:0.8945277333259583, dtw:Not calculated
+
+DLinear_DLinear_strength_1  
+mse:1.8086007833480835, mae:0.8844425678253174, dtw:Not calculated
+
+DLinear_DLinear_strength_2  
+mse:1.7854083776474, mae:0.8768162727355957, dtw:Not calculated
+
+DLinear_DLinear_strength_3  
+mse:1.7646174430847168, mae:0.8698856830596924, dtw:Not calculated
+
+DLinear_DLinear_strength_4  
+mse:1.7387678623199463, mae:0.8624657392501831, dtw:Not calculated
+
+DLinear_DLinear_strength_5  
+mse:1.7254276275634766, mae:0.8571680784225464, dtw:Not calculated
+
+DLinear_DLinear_strength_6  
+mse:1.7060860395431519, mae:0.8520976305007935, dtw:Not calculated
+
+DLinear_DLinear_strength_7  
+mse:1.6866377592086792, mae:0.8457666635513306, dtw:Not calculated
+
+DLinear_DLinear_strength_8  
+mse:1.6681169271469116, mae:0.8414512872695923, dtw:Not calculated
+
+DLinear_DLinear_strength_9  
+mse:1.664300799369812, mae:0.840666651725769, dtw:Not calculated
+
+DLinear_DLinear_strength_9  
+mse:1.660805106163025, mae:0.8400884866714478, dtw:Not calculated
+
+DLinear_DLinear_strength_10  
+mse:1.854562520980835, mae:0.9030380845069885, dtw:Not calculated
+
+DLinear_DLinear_strength_11  
+mse:1.8268845081329346, mae:0.8938844799995422, dtw:Not calculated
+
+DLinear_DLinear_strength_12  
+mse:1.7986009120941162, mae:0.8847038149833679, dtw:Not calculated
+
+DLinear_DLinear_strength_13  
+mse:1.7807581424713135, mae:0.8793200254440308, dtw:Not calculated
+
+DLinear_DLinear_strength_14  
+mse:1.7572237253189087, mae:0.8725680708885193, dtw:Not calculated
+
+DLinear_DLinear_strength_15  
+mse:1.738210678100586, mae:0.8654990196228027, dtw:Not calculated
+
+DLinear_DLinear_strength_16  
+mse:1.712673544883728, mae:0.8583808541297913, dtw:Not calculated
+
+DLinear_DLinear_strength_17  
+mse:1.689978837966919, mae:0.8533716797828674, dtw:Not calculated
+
+DLinear_DLinear_strength_18  
+mse:1.6941642761230469, mae:0.8518754839897156, dtw:Not calculated
+
+DLinear_DLinear_strength_19  
+mse:1.6726716756820679, mae:0.8472281098365784, dtw:Not calculated
+
+DLinear_DLinear_strength_19  
+mse:1.6781656742095947, mae:0.8484213948249817, dtw:Not calculated
+
+DLinear_DLinear_strength_20  
+mse:1.8375455141067505, mae:0.8939064145088196, dtw:Not calculated
+
+DLinear_DLinear_strength_21  
+mse:1.8007482290267944, mae:0.8828358054161072, dtw:Not calculated
+
+DLinear_DLinear_strength_22  
+mse:1.7818806171417236, mae:0.8750815391540527, dtw:Not calculated
+
+DLinear_DLinear_strength_23  
+mse:1.7663826942443848, mae:0.8696776628494263, dtw:Not calculated
+
+DLinear_DLinear_strength_24  
+mse:1.7465624809265137, mae:0.8633617758750916, dtw:Not calculated
+
+DLinear_DLinear_strength_25  
+mse:1.7210078239440918, mae:0.8547520637512207, dtw:Not calculated
+
+DLinear_DLinear_strength_26  
+mse:1.6944429874420166, mae:0.8473873138427734, dtw:Not calculated
+
+DLinear_DLinear_strength_27  
+mse:1.6860977411270142, mae:0.8464758992195129, dtw:Not calculated
+
+DLinear_DLinear_strength_28  
+mse:1.685977578163147, mae:0.8445282578468323, dtw:Not calculated
+
+DLinear_DLinear_strength_29  
+mse:1.6584378480911255, mae:0.8382698893547058, dtw:Not calculated
+
+DLinear_DLinear_strength_29  
+mse:1.6605716943740845, mae:0.8382841348648071, dtw:Not calculated
+
+DLinear_DLinear_strength_30  
+mse:1.8280820846557617, mae:0.8904076218605042, dtw:Not calculated
+
+DLinear_DLinear_strength_31  
+mse:1.805794358253479, mae:0.8822669982910156, dtw:Not calculated
+
+DLinear_DLinear_strength_32  
+mse:1.7891590595245361, mae:0.8760029077529907, dtw:Not calculated
+
+DLinear_DLinear_strength_33  
+mse:1.7352752685546875, mae:0.862002968788147, dtw:Not calculated
+
+DLinear_DLinear_strength_34  
+mse:1.7352988719940186, mae:0.8603861927986145, dtw:Not calculated
+
+DLinear_DLinear_strength_35  
+mse:1.697829246520996, mae:0.8526596426963806, dtw:Not calculated
+
+DLinear_DLinear_strength_36  
+mse:1.719138264656067, mae:0.8559951782226562, dtw:Not calculated
+
+DLinear_DLinear_strength_37  
+mse:1.6815128326416016, mae:0.8441795110702515, dtw:Not calculated
+
+DLinear_DLinear_strength_38  
+mse:1.6754127740859985, mae:0.8441068530082703, dtw:Not calculated
+
+DLinear_DLinear_strength_39  
+mse:1.6497751474380493, mae:0.8369318246841431, dtw:Not calculated
+
+DLinear_DLinear_strength_39  
+mse:1.6558692455291748, mae:0.8385084271430969, dtw:Not calculated
+
+DLinear_DLinear_strength_40  
+mse:1.8325347900390625, mae:0.8961498737335205, dtw:Not calculated
+
+DLinear_DLinear_strength_41  
+mse:1.8126121759414673, mae:0.8899893164634705, dtw:Not calculated
+
+DLinear_DLinear_strength_42  
+mse:1.7918912172317505, mae:0.8807616233825684, dtw:Not calculated
+
+DLinear_DLinear_strength_43  
+mse:1.7736485004425049, mae:0.8784717917442322, dtw:Not calculated
+
+DLinear_DLinear_strength_44  
+mse:1.7312896251678467, mae:0.8655579686164856, dtw:Not calculated
+
+DLinear_DLinear_strength_45  
+mse:1.701033592224121, mae:0.8564663529396057, dtw:Not calculated
+
+DLinear_DLinear_strength_46  
+mse:1.72315514087677, mae:0.8611599802970886, dtw:Not calculated
+
+DLinear_DLinear_strength_47  
+mse:1.687606692314148, mae:0.8490595817565918, dtw:Not calculated
+
+DLinear_DLinear_strength_48  
+mse:1.671657919883728, mae:0.8456701040267944, dtw:Not calculated
+
+DLinear_DLinear_strength_49  
+mse:1.6765652894973755, mae:0.8454126715660095, dtw:Not calculated
+
+DLinear_DLinear_strength_49  
+mse:1.6700135469436646, mae:0.8445605039596558, dtw:Not calculated
+
+DLinear_DLinear_ori  
+mse:1.8294817209243774, mae:0.8892687559127808, dtw:Not calculated
+
+Transformer_Transformer_strength_0  
+mse:3.3748457431793213, mae:1.3827966451644897, dtw:Not calculated
+
+Transformer_Transformer_strength_1  
+mse:2.3404109477996826, mae:1.095928430557251, dtw:Not calculated
+
+Transformer_Transformer_strength_2  
+mse:2.1287074089050293, mae:1.0270882844924927, dtw:Not calculated
+
+Transformer_Transformer_strength_3  
+mse:2.2692484855651855, mae:1.0601524114608765, dtw:Not calculated
+
+Transformer_Transformer_strength_4  
+mse:2.100677013397217, mae:1.0401748418807983, dtw:Not calculated
+
+Transformer_Transformer_strength_5  
+mse:2.302152633666992, mae:1.0598313808441162, dtw:Not calculated
+
+Transformer_Transformer_strength_6  
+mse:1.8617507219314575, mae:0.953071117401123, dtw:Not calculated
+
+Transformer_Transformer_strength_7  
+mse:1.8055977821350098, mae:0.9503458738327026, dtw:Not calculated
+
+Transformer_Transformer_strength_8  
+mse:2.0028188228607178, mae:0.99638432264328, dtw:Not calculated
+
+Transformer_Transformer_strength_9  
+mse:1.9865548610687256, mae:0.9652218818664551, dtw:Not calculated
+
+Transformer_Transformer_strength_9  
+mse:1.9830710887908936, mae:0.9645742177963257, dtw:Not calculated
+
+Transformer_Transformer_strength_10  
+mse:2.3828797340393066, mae:1.1543693542480469, dtw:Not calculated
+
+Transformer_Transformer_strength_11  
+mse:2.2245466709136963, mae:1.0776408910751343, dtw:Not calculated
+
+Transformer_Transformer_strength_12  
+mse:2.108062267303467, mae:1.0325826406478882, dtw:Not calculated
+
+Transformer_Transformer_strength_13  
+mse:1.962666630744934, mae:0.9770250916481018, dtw:Not calculated
+
+Transformer_Transformer_strength_14  
+mse:1.7067463397979736, mae:0.8912182450294495, dtw:Not calculated
+
+Transformer_Transformer_strength_15  
+mse:2.212520122528076, mae:1.0189933776855469, dtw:Not calculated
+
+Transformer_Transformer_strength_16  
+mse:2.1831769943237305, mae:1.0412380695343018, dtw:Not calculated
+
+Transformer_Transformer_strength_17  
+mse:2.019709587097168, mae:0.9929197430610657, dtw:Not calculated
+
+Transformer_Transformer_strength_18  
+mse:1.8259105682373047, mae:0.9446736574172974, dtw:Not calculated
+
+Transformer_Transformer_strength_19  
+mse:2.152158498764038, mae:1.061867356300354, dtw:Not calculated
+
+Transformer_Transformer_strength_19  
+mse:2.1547069549560547, mae:1.0628085136413574, dtw:Not calculated
+
+Transformer_Transformer_strength_20  
+mse:2.062990665435791, mae:1.0849518775939941, dtw:Not calculated
+
+Transformer_Transformer_strength_21  
+mse:2.267491102218628, mae:1.0698450803756714, dtw:Not calculated
+
+Transformer_Transformer_strength_22  
+mse:2.1411685943603516, mae:1.013178825378418, dtw:Not calculated
+
+Transformer_Transformer_strength_23  
+mse:1.9080333709716797, mae:1.0208415985107422, dtw:Not calculated
+
+Transformer_Transformer_strength_24  
+mse:2.158341646194458, mae:1.0356614589691162, dtw:Not calculated
+
+Transformer_Transformer_strength_25  
+mse:2.018568754196167, mae:1.0062673091888428, dtw:Not calculated
+
+Transformer_Transformer_strength_26  
+mse:2.0911166667938232, mae:1.0433623790740967, dtw:Not calculated
+
+Transformer_Transformer_strength_27  
+mse:2.014185667037964, mae:0.9896180629730225, dtw:Not calculated
+
+Transformer_Transformer_strength_28  
+mse:2.420529365539551, mae:1.100315809249878, dtw:Not calculated
+
+Transformer_Transformer_strength_29  
+mse:1.9826728105545044, mae:1.026178240776062, dtw:Not calculated
+
+Transformer_Transformer_strength_29  
+mse:1.9841415882110596, mae:1.0250499248504639, dtw:Not calculated
+
+Transformer_Transformer_strength_30  
+mse:2.7836480140686035, mae:1.2010656595230103, dtw:Not calculated
+
+Transformer_Transformer_strength_31  
+mse:2.6207973957061768, mae:1.1900827884674072, dtw:Not calculated
+
+Transformer_Transformer_strength_32  
+mse:2.3496389389038086, mae:1.156553864479065, dtw:Not calculated
+
+Transformer_Transformer_strength_33  
+mse:2.1758944988250732, mae:1.096900463104248, dtw:Not calculated
+
+Transformer_Transformer_strength_34  
+mse:1.9264754056930542, mae:1.0174744129180908, dtw:Not calculated
+
+Transformer_Transformer_strength_35  
+mse:2.202648162841797, mae:1.0740126371383667, dtw:Not calculated
+
+Transformer_Transformer_strength_36  
+mse:1.8942155838012695, mae:1.0030821561813354, dtw:Not calculated
+
+Transformer_Transformer_strength_37  
+mse:2.010385274887085, mae:1.0384958982467651, dtw:Not calculated
+
+Transformer_Transformer_strength_38  
+mse:2.0934460163116455, mae:1.0384900569915771, dtw:Not calculated
+
+Transformer_Transformer_strength_39  
+mse:2.0525951385498047, mae:1.0314080715179443, dtw:Not calculated
+
+Transformer_Transformer_strength_39  
+mse:2.065319776535034, mae:1.0332605838775635, dtw:Not calculated
+
+Transformer_Transformer_strength_40  
+mse:2.5038530826568604, mae:1.2265212535858154, dtw:Not calculated
+
+Transformer_Transformer_strength_41  
+mse:2.4536871910095215, mae:1.1111232042312622, dtw:Not calculated
+
+Transformer_Transformer_strength_42  
+mse:2.279123306274414, mae:1.1210832595825195, dtw:Not calculated
+
+Transformer_Transformer_strength_43  
+mse:2.2588210105895996, mae:1.051757574081421, dtw:Not calculated
+
+Transformer_Transformer_strength_44  
+mse:2.2174766063690186, mae:1.0449122190475464, dtw:Not calculated
+
+Transformer_Transformer_strength_45  
+mse:2.310492515563965, mae:1.0799485445022583, dtw:Not calculated
+
+Transformer_Transformer_strength_46  
+mse:1.883997917175293, mae:0.9579634070396423, dtw:Not calculated
+
+Transformer_Transformer_strength_47  
+mse:1.8186179399490356, mae:0.9101829528808594, dtw:Not calculated
+
+Transformer_Transformer_strength_48  
+mse:2.00563907623291, mae:0.9885448813438416, dtw:Not calculated
+
+Transformer_Transformer_strength_49  
+mse:1.8122366666793823, mae:0.9425117373466492, dtw:Not calculated
+
+Transformer_Transformer_strength_49  
+mse:1.8071931600570679, mae:0.9406427145004272, dtw:Not calculated
+
+Transformer_Transformer_ori  
+mse:3.3306705951690674, mae:1.3641774654388428, dtw:Not calculated
+
+iTransformer_iTransformer_strength_0  
+mse:2.528195381164551, mae:1.0675920248031616, dtw:Not calculated
+
+iTransformer_iTransformer_strength_1  
+mse:2.3765196800231934, mae:1.0291662216186523, dtw:Not calculated
+
+iTransformer_iTransformer_strength_2  
+mse:2.0174427032470703, mae:0.947538435459137, dtw:Not calculated
+
+iTransformer_iTransformer_strength_3  
+mse:2.0963807106018066, mae:0.9561049342155457, dtw:Not calculated
+
+iTransformer_iTransformer_strength_4  
+mse:1.9591903686523438, mae:0.9238009452819824, dtw:Not calculated
+
+iTransformer_iTransformer_strength_5  
+mse:2.1051251888275146, mae:0.9649565815925598, dtw:Not calculated
+
+iTransformer_iTransformer_strength_6  
+mse:1.8079099655151367, mae:0.8789384365081787, dtw:Not calculated
+
+iTransformer_iTransformer_strength_7  
+mse:1.881547212600708, mae:0.8988216519355774, dtw:Not calculated
+
+iTransformer_iTransformer_strength_8  
+mse:1.8525148630142212, mae:0.8980750441551208, dtw:Not calculated
+
+iTransformer_iTransformer_strength_9  
+mse:2.11505389213562, mae:0.9628514051437378, dtw:Not calculated
+
+iTransformer_iTransformer_strength_9  
+mse:2.107570171356201, mae:0.9609835743904114, dtw:Not calculated
+
+iTransformer_iTransformer_strength_10  
+mse:2.0208258628845215, mae:0.9643781185150146, dtw:Not calculated
+
+iTransformer_iTransformer_strength_11  
+mse:1.9805046319961548, mae:0.9363856315612793, dtw:Not calculated
+
+iTransformer_iTransformer_strength_12  
+mse:1.9885890483856201, mae:0.9370627999305725, dtw:Not calculated
+
+iTransformer_iTransformer_strength_13  
+mse:1.9123326539993286, mae:0.9110120534896851, dtw:Not calculated
+
+iTransformer_iTransformer_strength_14  
+mse:1.9792996644973755, mae:0.9265636205673218, dtw:Not calculated
+
+iTransformer_iTransformer_strength_15  
+mse:1.828381061553955, mae:0.892141580581665, dtw:Not calculated
+
+iTransformer_iTransformer_strength_16  
+mse:2.081240653991699, mae:0.9565343260765076, dtw:Not calculated
+
+iTransformer_iTransformer_strength_17  
+mse:2.0389232635498047, mae:0.9536031484603882, dtw:Not calculated
+
+iTransformer_iTransformer_strength_18  
+mse:1.8979566097259521, mae:0.9122454524040222, dtw:Not calculated
+
+iTransformer_iTransformer_strength_19  
+mse:1.7823405265808105, mae:0.8735882639884949, dtw:Not calculated
+
+iTransformer_iTransformer_strength_19  
+mse:1.789690613746643, mae:0.8745629787445068, dtw:Not calculated
+
+iTransformer_iTransformer_strength_20  
+mse:2.1192452907562256, mae:0.9865774512290955, dtw:Not calculated
+
+iTransformer_iTransformer_strength_21  
+mse:2.0059070587158203, mae:0.9395459890365601, dtw:Not calculated
+
+iTransformer_iTransformer_strength_22  
+mse:2.299468517303467, mae:1.0078812837600708, dtw:Not calculated
+
+iTransformer_iTransformer_strength_23  
+mse:1.9643372297286987, mae:0.9285169243812561, dtw:Not calculated
+
+iTransformer_iTransformer_strength_24  
+mse:2.0024924278259277, mae:0.936436116695404, dtw:Not calculated
+
+iTransformer_iTransformer_strength_25  
+mse:1.8335106372833252, mae:0.8945820927619934, dtw:Not calculated
+
+iTransformer_iTransformer_strength_26  
+mse:1.8910380601882935, mae:0.9000562429428101, dtw:Not calculated
+
+iTransformer_iTransformer_strength_27  
+mse:1.9336494207382202, mae:0.9199836850166321, dtw:Not calculated
+
+iTransformer_iTransformer_strength_28  
+mse:1.9337806701660156, mae:0.925478994846344, dtw:Not calculated
+
+iTransformer_iTransformer_strength_29  
+mse:1.9628262519836426, mae:0.9265773296356201, dtw:Not calculated
+
+iTransformer_iTransformer_strength_29  
+mse:1.9637069702148438, mae:0.9257809519767761, dtw:Not calculated
+
+iTransformer_iTransformer_strength_30  
+mse:2.2169058322906494, mae:0.9976319670677185, dtw:Not calculated
+
+iTransformer_iTransformer_strength_31  
+mse:1.9248086214065552, mae:0.9246346950531006, dtw:Not calculated
+
+iTransformer_iTransformer_strength_32  
+mse:2.2497777938842773, mae:1.0019160509109497, dtw:Not calculated
+
+iTransformer_iTransformer_strength_33  
+mse:1.864296317100525, mae:0.9119583964347839, dtw:Not calculated
+
+iTransformer_iTransformer_strength_34  
+mse:2.156588315963745, mae:0.9726179838180542, dtw:Not calculated
+
+iTransformer_iTransformer_strength_35  
+mse:1.850691318511963, mae:0.8997603058815002, dtw:Not calculated
+
+iTransformer_iTransformer_strength_36  
+mse:1.9377098083496094, mae:0.9172611832618713, dtw:Not calculated
+
+iTransformer_iTransformer_strength_37  
+mse:1.9411512613296509, mae:0.9172164797782898, dtw:Not calculated
+
+iTransformer_iTransformer_strength_38  
+mse:1.963557243347168, mae:0.9258748292922974, dtw:Not calculated
+
+iTransformer_iTransformer_strength_39  
+mse:1.8192859888076782, mae:0.8804070949554443, dtw:Not calculated
+
+iTransformer_iTransformer_strength_39  
+mse:1.8195292949676514, mae:0.878663182258606, dtw:Not calculated
+
+iTransformer_iTransformer_strength_40  
+mse:2.2661361694335938, mae:1.0170575380325317, dtw:Not calculated
+
+iTransformer_iTransformer_strength_41  
+mse:1.9244436025619507, mae:0.9191386103630066, dtw:Not calculated
+
+iTransformer_iTransformer_strength_42  
+mse:2.2546441555023193, mae:0.9988850951194763, dtw:Not calculated
+
+iTransformer_iTransformer_strength_43  
+mse:1.8836417198181152, mae:0.9111047983169556, dtw:Not calculated
+
+iTransformer_iTransformer_strength_44  
+mse:2.025048017501831, mae:0.9381136894226074, dtw:Not calculated
+
+iTransformer_iTransformer_strength_45  
+mse:1.9261500835418701, mae:0.9226529002189636, dtw:Not calculated
+
+iTransformer_iTransformer_strength_46  
+mse:1.9937692880630493, mae:0.9323018789291382, dtw:Not calculated
+
+iTransformer_iTransformer_strength_47  
+mse:1.8320916891098022, mae:0.8935762643814087, dtw:Not calculated
+
+iTransformer_iTransformer_strength_48  
+mse:1.963053822517395, mae:0.9233220815658569, dtw:Not calculated
+
+iTransformer_iTransformer_strength_49  
+mse:1.9439646005630493, mae:0.9323500990867615, dtw:Not calculated
+
+iTransformer_iTransformer_strength_49  
+mse:1.9303994178771973, mae:0.9295278191566467, dtw:Not calculated
+
+iTransformer_iTransformer_ori  
+mse:2.6733391284942627, mae:1.1068990230560303, dtw:Not calculated
+
